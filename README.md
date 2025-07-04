@@ -1,4 +1,4 @@
-# Lightning_Strike_Data_Analysis
+# Lightning Strike Data Analysis
 This project presents an in-depth analysis of lightning strike data from 2016 to 2018, sourced from the National Oceanic and Atmospheric Administration (NOAA). Spatial and temporal patterns were examined to uncover high-risk hotspots, seasonal trends, and annual fluctuations in lightning activity. A dataset comprising over 13 million records was processed, with visualizations generated to highlight geographical concentrations and time-based trends. Notably, regions in Cuba and the southern United States emerged as consistent lightning hotspots, with peak activity observed during the summer months. Insights from this analysis offer valuable support for weather monitoring, disaster mitigation, and climate-related research initiatives.
 
 ## **Insights**
